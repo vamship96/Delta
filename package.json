@@ -1,0 +1,21 @@
+{
+  "name": "delta_exchange",
+  "version": "1.0.0",
+  "description": "delta exchange assesment",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "na"
+  },
+  "keywords": [
+    "na"
+  ],
+  "author": "vamshi pallerla",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "cypress": "^7.5.0"
+  }
+}
